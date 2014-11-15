@@ -2,7 +2,7 @@ GHC(STG,Cmm,asm) illustrated for hardware person
 ================================================
 
 
-The document is here; [haskell_ghc_illustrated]
+The illustrated document is here; [haskell_ghc_illustrated.pdf]
 (https://github.com/takenobu-hs/haskell-ghc-illustrated/blob/master/haskell_ghc_illustrated.pdf)
 
 
@@ -47,6 +47,7 @@ Contents
  
 -
 - References
+
 
 
 
