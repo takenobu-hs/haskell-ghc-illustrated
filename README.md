@@ -4,7 +4,7 @@ GHC(STG,Cmm,asm) illustrated for hardware person
 This is illustrated document about GHC(Glasgow Haskell Compiler).
 
 Here is; [haskell_ghc_illustrated.pdf]
-(https://github.com/takenobu-hs/haskell-ghc-illustrated/releases/download/v0.00/haskell_ghc_illustrated.pdf)
+(https://github.com/takenobu-hs/haskell-ghc-illustrated/releases/download/v0.01/haskell_ghc_illustrated.pdf)
 
 
 Contents
@@ -26,11 +26,13 @@ Contents
 - STG - C land interface
 
 -
-- Thread - Thread context switch
+- Thread
+- Thread context switch
 - Creating main and sub threads
 - Thread migration
 - Heap and Threads
 - Threads and GC
+- Bound thread
 
 -
 - Spark
