@@ -4,7 +4,7 @@ GHC(STG,Cmm,asm) illustrated for hardware person
 This is illustrated document about GHC(Glasgow Haskell Compiler).
 
 Here is; [haskell_ghc_illustrated.pdf]
-(https://github.com/takenobu-hs/haskell-ghc-illustrated/releases/download/v0.01/haskell_ghc_illustrated.pdf)
+(http://takenobu-hs.github.io/downloads/haskell_ghc_illustrated.pdf)
 
 
 Contents
