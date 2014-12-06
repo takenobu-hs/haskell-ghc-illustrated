@@ -42,6 +42,7 @@ Contents
 - Software transactional memory
 
 -
+- FFI
 - IO and FFI
 - IO manager
 
