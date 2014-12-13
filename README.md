@@ -1,5 +1,5 @@
-GHC(STG,Cmm,asm) illustrated for hardware person
-================================================
+GHC(STG,Cmm,asm) illustrated for hardware persons
+=================================================
 
 This is an illustrated document about the GHC(Glasgow Haskell Compiler).
 
