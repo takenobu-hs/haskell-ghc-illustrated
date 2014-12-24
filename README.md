@@ -51,7 +51,3 @@ Contents
  
 -
 - References
-
-
-
-
