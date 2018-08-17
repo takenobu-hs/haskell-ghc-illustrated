@@ -13,8 +13,8 @@ Contents
 - Compile steps
 - Runtime System
 - Development languages
+<br>
 
--
 - Machine layer/models
 - STG-machine
 - Heap object in STG-machine
@@ -23,8 +23,13 @@ Contents
 - Thunk and update
 - Allocate and free heap objects
 - STG - C land interface
+<br>
 
--
+- Boxity : boxed and unboxed
+- Levity : lifted and unlifted
+- Boxity and levity
+<br>
+
 - Thread
 - Thread context switch
 - Creating main and sub threads
@@ -32,21 +37,21 @@ Contents
 - Heap and Threads
 - Threads and GC
 - Bound thread
+<br>
 
--
 - Spark
+<br>
 
--
 - Mvar
 - Software transactional memory
+<br>
 
--
 - FFI
 - IO and FFI
 - IO manager
+<br>
 
--
 - Bootstrap
- 
--
+<br>
+
 - References

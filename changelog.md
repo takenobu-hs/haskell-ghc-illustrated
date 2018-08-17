@@ -1,5 +1,18 @@
 # Changelog 
 
+## 0.3.0  *Aug 2018*
+
+   * Add boxity(boxed/unboxed) and levity(lifted/unlifted) on slide 45-52
+
+   * Change the assembly code and registers from x86's 32bit to x86's 64bit on slide 16, 22, 28-31, 37
+
+   * Change source code for ghc 8.6 on slide 19
+
+   * Modify refferences [2], [3], [16], [19], [S9], [S42] for current URL on slide 121-125
+
+   * Add refference [23], [24] on slide 123
+
+
 ## 0.2.0  *Jul 2016*
 
    * Change for GHC 8.0
