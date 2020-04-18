@@ -1,5 +1,5 @@
-GHC(STG,Cmm,asm) illustrated for hardware persons
-=================================================
+GHC(STG,Cmm,asm) illustrated
+============================
 
 This is an illustrated document about the GHC(Glasgow Haskell Compiler).
 
@@ -25,11 +25,6 @@ Contents
 - STG - C land interface
 <br>
 
-- Boxity : boxed and unboxed
-- Levity : lifted and unlifted
-- Boxity and levity
-<br>
-
 - Thread
 - Thread context switch
 - Creating main and sub threads
@@ -52,6 +47,12 @@ Contents
 <br>
 
 - Bootstrap
+<br>
+
+- Appendix
+  - Boxity : boxed and unboxed
+  - Levity : lifted and unlifted
+  - Boxity and levity
 <br>
 
 - References
