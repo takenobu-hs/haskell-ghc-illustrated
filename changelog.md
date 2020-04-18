@@ -1,5 +1,14 @@
 # Changelog 
 
+## 0.4.0  *Apr 2020*
+
+   * Modify references for current URL on slide 122-126
+
+   * Change source code revision for ghc 8.10 on slide 19 and 24
+
+   * Move boxity and levity slides to appendix
+
+
 ## 0.3.0  *Aug 2018*
 
    * Add boxity(boxed/unboxed) and levity(lifted/unlifted) on slide 45-52
