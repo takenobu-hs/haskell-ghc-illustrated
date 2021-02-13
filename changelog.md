@@ -1,5 +1,16 @@
 # Changelog 
 
+## 0.5.0  *Feb 2021*
+
+   * Modify references for current files on slide 126
+
+   * Add refference [25] on slide 124
+
+   * Change source code revision for ghc 9.0 on slide 19 and 24
+
+   * Correct to remove stg_ap_v_info on slide 108
+
+
 ## 0.4.0  *Apr 2020*
 
    * Modify references for current URL on slide 122-126
